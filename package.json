@@ -1,0 +1,19 @@
+{
+  "name": "1-web-dev-fundamentals",
+  "version": "1.0.0",
+  "description": "This is a website for a fictional campsites review website, called Nucamp.",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapuakea Isaak",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
