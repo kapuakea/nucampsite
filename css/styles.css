@@ -7,12 +7,12 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #3046C5;
+    color: #065432;
 }
 
 header {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3045C5, #60106B);
+    background-image: linear-gradient(to right, #065432, #259c3d, #065432);
     color: white;
 }
 
@@ -32,7 +32,7 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #064613;
 }
 
 .navbar-toggler {
@@ -52,7 +52,8 @@ header h2 {
 }
 
 .campsite-btn {
-    background: #0dcaf0;
+    background: #064613;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
