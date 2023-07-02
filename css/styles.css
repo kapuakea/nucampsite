@@ -39,7 +39,7 @@ header h2 {
     margin-left: auto;
 }
 
-.accordian-button {
+.accordion-button {
     background-color: #d3d3d3;
 }
 
@@ -49,4 +49,14 @@ header h2 {
 
 .carousel {
     border: solid #5637DD
+}
+
+.campsite-btn {
+    background: #0dcaf0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    width: 60%;
 }
